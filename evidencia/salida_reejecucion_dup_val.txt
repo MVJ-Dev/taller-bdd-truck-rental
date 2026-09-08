@@ -1,0 +1,22 @@
+Arriendo 1: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 3: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 4: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 7: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 9: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 11: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 21: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 22: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 30: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 31: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 35: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 39: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 41: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 42: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 43: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 45: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+Arriendo 48: ya existia en MULTA_ARRIENDO, se omite (reejecucion).
+--- Resumen del proceso, ano 2025 ---
+Arriendos con multa (insertados): 0
+Arriendos sin atraso: 37
+Arriendos con fecha inconsistente: 0
+Arriendos aun no devueltos (omitidos): 0

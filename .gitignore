@@ -1,0 +1,11 @@
+# Temporales de SQL Developer / SQLcl
+*.log
+login.sql
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Temporales de Office
+~$*.docx
+~$*.pptx

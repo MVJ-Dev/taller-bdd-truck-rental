@@ -1,0 +1,61 @@
+
+Session altered.
+
+### Conteo total de ambas tablas
+
+TOTAL_MULTAS TOTAL_HIST
+------------ ----------
+	  38	     24
+
+1 row selected.
+
+### MULTA_ARRIENDO por periodo
+
+ANNO_MES_PROCESO  REGISTROS
+---------------- ----------
+	  202503	  9
+	  202504	  2
+	  202505	  1
+	  202507	  1
+	  202508	  1
+	  202509	  3
+	  202602	  5
+	  202603	  5
+	  202604	  2
+	  202605	  1
+	  202607	  4
+	  202608	  4
+
+12 rows selected.
+
+### HIST_ARRIENDO_ANUAL_CAMION completo
+
+ANNO_PROCESO NRO_PA TOTAL_VECES_ARRENDADO
+------------ ------ ---------------------
+	2025 AA1001			3
+	2025 AHEW11			5
+	2025 AQDD04			4
+	2025 ASEZ11			3
+	2025 AZ1001			5
+	2025 BC1002			2
+	2025 BE1002			5
+	2025 BT1002			1
+	2025 FG1001			3
+	2025 TY1003		       12
+	2025 VR1003			6
+	2025 WE1002			5
+	2026 AA1001			6
+	2026 AHEW11			7
+	2026 AQDD04			4
+	2026 ASEZ11			4
+	2026 AZ1001			3
+	2026 BC1002			3
+	2026 BE1002			4
+	2026 BT1002			2
+	2026 FG1001			2
+	2026 TY1003			8
+	2026 VR1003			7
+	2026 WE1002			3
+
+24 rows selected.
+

@@ -1,0 +1,22 @@
+Arriendo 1 | Patente AA1001 | Atraso: 2 dias | Tramo: 5% | Multa: $2300
+Arriendo 3 | Patente AA1001 | Atraso: 2 dias | Tramo: 5% | Multa: $2300
+Arriendo 4 | Patente BT1002 | Atraso: 31 dias | Tramo: 15% | Multa: $111600
+Arriendo 7 | Patente TY1003 | Atraso: 7 dias | Tramo: 10% | Multa: $24500
+Arriendo 9 | Patente TY1003 | Atraso: 11 dias | Tramo: 15% | Multa: $57750
+Arriendo 11 | Patente TY1003 | Atraso: 2 dias | Tramo: 5% | Multa: $3500
+Arriendo 21 | Patente WE1002 | Atraso: 3 dias | Tramo: 5% | Multa: $3600
+Arriendo 22 | Patente TY1003 | Atraso: 7 dias | Tramo: 10% | Multa: $24500
+Arriendo 30 | Patente ASEZ11 | Atraso: 3 dias | Tramo: 5% | Multa: $2175
+Arriendo 31 | Patente AZ1001 | Atraso: 3 dias | Tramo: 5% | Multa: $3450
+Arriendo 35 | Patente BE1002 | Atraso: 1 dias | Tramo: 5% | Multa: $1200
+Arriendo 39 | Patente AHEW11 | Atraso: 10 dias | Tramo: 15% | Multa: $21750
+Arriendo 41 | Patente TY1003 | Atraso: 3 dias | Tramo: 5% | Multa: $5250
+Arriendo 42 | Patente TY1003 | Atraso: 13 dias | Tramo: 15% | Multa: $68250
+Arriendo 43 | Patente ASEZ11 | Atraso: 12 dias | Tramo: 15% | Multa: $26100
+Arriendo 45 | Patente AHEW11 | Atraso: 3 dias | Tramo: 5% | Multa: $2175
+Arriendo 48 | Patente AZ1001 | Atraso: 1 dias | Tramo: 5% | Multa: $1150
+--- Resumen del proceso, ano 2025 ---
+Arriendos con multa (insertados): 17
+Arriendos sin atraso: 37
+Arriendos con fecha inconsistente: 0
+Arriendos aun no devueltos (omitidos): 0

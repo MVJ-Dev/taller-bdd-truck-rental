@@ -1,0 +1,28 @@
+Camion AA1001: 3 arriendos en 2025 -> insertado.
+Camion AHEW11: 5 arriendos en 2025 -> insertado.
+Camion AQDD04: 4 arriendos en 2025 -> insertado.
+Camion AS4411: sin arriendos en 2025, no se incluye en el historial.
+Camion ASEE11: sin arriendos en 2025, no se incluye en el historial.
+Camion ASEW11: sin arriendos en 2025, no se incluye en el historial.
+Camion ASEZ11: 3 arriendos en 2025 -> insertado.
+Camion AXDD23: sin arriendos en 2025, no se incluye en el historial.
+Camion AZ1001: 5 arriendos en 2025 -> insertado.
+Camion BC1002: 2 arriendos en 2025 -> insertado.
+Camion BE1002: 5 arriendos en 2025 -> insertado.
+Camion BT1002: 1 arriendos en 2025 -> insertado.
+Camion EC1002: sin arriendos en 2025, no se incluye en el historial.
+Camion FDDD23: sin arriendos en 2025, no se incluye en el historial.
+Camion FFDD23: sin arriendos en 2025, no se incluye en el historial.
+Camion FG1001: 3 arriendos en 2025 -> insertado.
+Camion FR1001: sin arriendos en 2025, no se incluye en el historial.
+Camion FXDD23: sin arriendos en 2025, no se incluye en el historial.
+Camion GG1001: sin arriendos en 2025, no se incluye en el historial.
+Camion OPDD23: sin arriendos en 2025, no se incluye en el historial.
+Camion TY1003: 12 arriendos en 2025 -> insertado.
+Camion VR1003: 6 arriendos en 2025 -> insertado.
+Camion VV1003: sin arriendos en 2025, no se incluye en el historial.
+Camion VY1003: sin arriendos en 2025, no se incluye en el historial.
+Camion WE1002: 5 arriendos en 2025 -> insertado.
+--- Resumen del proceso, ano 2025 ---
+Camiones insertados en historial: 12
+Camiones sin uso en el ano (excluidos): 13

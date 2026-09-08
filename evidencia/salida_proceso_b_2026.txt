@@ -1,0 +1,28 @@
+Camion AA1001: 6 arriendos en 2026 -> insertado.
+Camion AHEW11: 7 arriendos en 2026 -> insertado.
+Camion AQDD04: 4 arriendos en 2026 -> insertado.
+Camion AS4411: sin arriendos en 2026, no se incluye en el historial.
+Camion ASEE11: sin arriendos en 2026, no se incluye en el historial.
+Camion ASEW11: sin arriendos en 2026, no se incluye en el historial.
+Camion ASEZ11: 4 arriendos en 2026 -> insertado.
+Camion AXDD23: sin arriendos en 2026, no se incluye en el historial.
+Camion AZ1001: 3 arriendos en 2026 -> insertado.
+Camion BC1002: 3 arriendos en 2026 -> insertado.
+Camion BE1002: 4 arriendos en 2026 -> insertado.
+Camion BT1002: 2 arriendos en 2026 -> insertado.
+Camion EC1002: sin arriendos en 2026, no se incluye en el historial.
+Camion FDDD23: sin arriendos en 2026, no se incluye en el historial.
+Camion FFDD23: sin arriendos en 2026, no se incluye en el historial.
+Camion FG1001: 2 arriendos en 2026 -> insertado.
+Camion FR1001: sin arriendos en 2026, no se incluye en el historial.
+Camion FXDD23: sin arriendos en 2026, no se incluye en el historial.
+Camion GG1001: sin arriendos en 2026, no se incluye en el historial.
+Camion OPDD23: sin arriendos en 2026, no se incluye en el historial.
+Camion TY1003: 8 arriendos en 2026 -> insertado.
+Camion VR1003: 7 arriendos en 2026 -> insertado.
+Camion VV1003: sin arriendos en 2026, no se incluye en el historial.
+Camion VY1003: sin arriendos en 2026, no se incluye en el historial.
+Camion WE1002: 3 arriendos en 2026 -> insertado.
+--- Resumen del proceso, ano 2026 ---
+Camiones insertados en historial: 12
+Camiones sin uso en el ano (excluidos): 13
